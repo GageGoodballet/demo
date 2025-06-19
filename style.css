@@ -1,0 +1,23 @@
+p {
+  color: rgb(0, 0, 0);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  border: 6px dotted;
+  text-align: center;
+  border-color: fuchsia;
+  padding: 4px;
+  margin: 10px;
+  background-color: rgb(243, 182, 233);
+}
+h1 {
+  color: hotpink;
+  font-family: monospace;
+  font-style: italic;
+  text-align: center;
+}
+h2 {
+  color: palevioletred;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+}
